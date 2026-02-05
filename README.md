@@ -94,8 +94,17 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" 
      alt="springboot" width="45" height="45"/>
 </p>
+<h2> 📊 &nbsp;GitHub Stats</h2>
 
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshchoudhary2103j)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshchoudhary2103j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchoudhary2103j&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshchoudhary2103j&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
 
 ![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake.svg)
 ![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
