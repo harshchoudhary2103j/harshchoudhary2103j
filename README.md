@@ -95,7 +95,7 @@ hobbies:
      alt="springboot" width="45" height="45"/>
 </p>
 
-
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=harshchoudhary2103j)
 
 ![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake.svg)
 ![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
