@@ -100,3 +100,4 @@ hobbies:
 </p>
 
 ![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
