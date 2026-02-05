@@ -98,10 +98,4 @@ hobbies:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshchoudhary2103j)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 ![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake.svg)
