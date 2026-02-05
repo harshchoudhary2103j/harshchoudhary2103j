@@ -95,9 +95,75 @@ hobbies:
      alt="springboot" width="45" height="45"/>
 </p>
 
+<!-- Github stats Table --> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <!-- GitHub Stats -->
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/harshchoudhary2103j">
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=harshchoudhary2103j&count_private=true&show_icons=true&theme=nightowl&hide=prs,issues,contribs"
+            alt="GitHub Stats"
+          />
+        </a>
+      </p>
+    </td>
+
+    <!-- Streak Stats -->
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/harshchoudhary2103j">
+          <img
+            src="https://streak-stats.demolab.com?user=harshchoudhary2103j&theme=nightowl"
+            alt="GitHub Streak"
+          />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Latest Project -->
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/harshchoudhary2103j">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=harshchoudhary2103j&repo=AirBnb_SpringBoot&theme=nightowl"
+            alt="Latest Project"
+          />
+        </a>
+      </p>
+    </td>
+
+    <!-- Top Languages -->
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/harshchoudhary2103j">
+          <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchoudhary2103j&layout=compact&theme=nightowl"
+            alt="Top Languages"
+          />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
