@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's Connect and Have a Chat! 💬
 </h1>
 
 <p align="center">
@@ -15,47 +15,71 @@
 <a href="https://www.instagram.com/choudhary_harshh_/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+
 </p>
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Harsh Choudhary
+located_in: Guwahati, Assam, India
+current_status: Final Year Undergraduate Student
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "B.Tech in Computer Science",
+    "Indian Institute of Information Technology (IIIT), Guwahati"
   ]
-company: Soulber
+
+current_role:
+  "Backend Developer Intern (Former) at LiveZone Design"
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
+    "Backend Development",
+    "System Design",
     "DevOps",
+    "Cloud & Containers",
+    "AI-integrated Applications"
   ]
-technical_background:
+
+technical_skills:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Java",
+    "Spring Boot",
+    "Spring AI",
+    "JavaScript",
+    "Node.js",
+    "React",
+    "C++",
+    "SQL (MySQL, PostgreSQL)",
+    "Docker"
   ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+
+currently_learning:
+  [
+    "Advanced Backend Architecture",
+    "Microservices",
+    "Kubernetes",
+    "Scalable System Design"
+  ]
+
+career_goals:
+  [
+    "Become a strong backend/system engineer",
+    "Build production-grade scalable systems",
+    "Work on impactful real-world products"
+  ]
+
+hobbies:
+  [
+    "Playing Badminton",
+    "Watching Anime",
+    "Reading Books",
+    "Exploring Tech & Open Source"
+  ]
 ```
-  
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
