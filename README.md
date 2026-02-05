@@ -33,14 +33,16 @@ education:
   ]
 
 current_role:
-  "Backend Developer Intern (Former) at LiveZone Design"
+  "Research Intern at NIT Warangal"
+
+experience:
+  "Backend Developer Intern at LivZone Design"
 
 fields_of_interests:
   [
     "Backend Development",
     "System Design",
     "DevOps",
-    "Cloud & Containers",
     "AI-integrated Applications"
   ]
 
@@ -51,7 +53,7 @@ technical_skills:
     "Spring AI",
     "JavaScript",
     "Node.js",
-    "React",
+    "MongoDB"
     "C++",
     "SQL (MySQL, PostgreSQL)",
     "Docker"
@@ -61,28 +63,20 @@ currently_learning:
   [
     "Advanced Backend Architecture",
     "Microservices",
-    "Kubernetes",
     "Scalable System Design"
   ]
 
-career_goals:
-  [
-    "Become a strong backend/system engineer",
-    "Build production-grade scalable systems",
-    "Work on impactful real-world products"
-  ]
 
 hobbies:
   [
     "Playing Badminton",
     "Watching Anime",
     "Reading Books",
-    "Exploring Tech & Open Source"
   ]
 ```
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2>  &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/> -->
