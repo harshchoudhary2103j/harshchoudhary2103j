@@ -1,6 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Tech+Enthusiast;Spring+Boot+%7C+Node.js+%7C+AI;Building+Scalable+Systems;Always+Learning+New+Tech!" alt="Typing SVG" />
+</p>
 
 <h1 align="center">
   Let's Connect and Have a Chat! 💬
@@ -74,6 +82,7 @@ hobbies:
     "Reading Books",
   ]
 ```
+
 ---  
   
 <h2>  &nbsp;Some Tools I Have Used and Learned</h2>
@@ -94,16 +103,21 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" 
      alt="springboot" width="45" height="45"/>
 </p>
+
 <h2> 📊 &nbsp;GitHub Stats</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshchoudhary2103j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchoudhary2103j&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshchoudhary2103j&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshchoudhary2103j&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshchoudhary2103j&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshchoudhary2103j&theme=radical"/>
 </p>
+
+---
+
+
 
 
 ![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake.svg)
