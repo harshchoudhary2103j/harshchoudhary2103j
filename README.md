@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img width="100%"src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Harsh%20Choudhary&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20&descAlignY=55&descAlign=50"/>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
@@ -15,16 +15,18 @@
 </h1>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/harsh-choudhary-43ba32258/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-
-<a href="https://www.instagram.com/choudhary_harshh_/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-
+  <a href="mailto:harshchoudhary210j@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-choudhary-43ba32258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/choudhary_harshh_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
+
 
 ---
 
@@ -122,10 +124,6 @@ hobbies:
 
 ![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake.svg)
 ![Snake animation](https://github.com/harshchoudhary2103j/harshchoudhary2103j/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=100&section=footer"/>
 </p>
-
-
