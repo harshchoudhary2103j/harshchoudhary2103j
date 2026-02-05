@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![footer](https://capsule-render.vercel.app/api?section=footer)
 
 <!--
 **harshchoudhary2103j/harshchoudhary2103j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
