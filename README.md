@@ -95,19 +95,10 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/> -->    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<!-- Spring Framework -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
      alt="spring" width="45" height="45"/>
-
-<!-- Spring Boot -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" 
      alt="springboot" width="45" height="45"/>
-
-<!-- Spring AI (no official devicon yet – using Spring + AI style) -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg" 
-     alt="spring-ai" width="45" height="45"/>
-
- 
 </p>
 
 <p align="center">
