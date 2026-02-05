@@ -104,10 +104,10 @@ hobbies:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=harshchoudhary&show_icons=true&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=harshchoudhary2103j&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchoudhary&layout=compact&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchoudhary2103j&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
